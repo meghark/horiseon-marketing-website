@@ -11,6 +11,9 @@ A website that shows the product offerings by Horiseon.
 ## Website
 https://meghark.github.io/horiseon-marketing-website/
 
+## Website screenshot
+![Mockup for finished website](./assets/images/Mockup.png?raw=true)
+
 ## Contribution
 Code refactor by Megha Kulathattil.
 
